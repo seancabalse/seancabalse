@@ -37,10 +37,6 @@ I'm a motivated **Software Engineer** and **Cloud Solutions Architect** with ove
 - **Hands-On Development**: Ability to build end-to-end systems, from frontend to cloud infrastructure.
 - **Mentorship**: Experienced in onboarding and coaching new developers in fast-paced environments.
 
-## 🎓 Education
-- **Bachelor of Science in Electrical Engineering** - University of the Philippines Diliman (Expected Graduation: 2025)
-- **High School Diploma** - Philippine Science High School - Eastern Visayas Campus (2015)
-
 ## 🏆 Certifications
 - **AWS Certified Developer – Associate** (Sep 2021)
 - **AWS Certified Solutions Architect – Associate** (Jul 2021)
